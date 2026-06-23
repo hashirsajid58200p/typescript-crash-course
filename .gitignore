@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+# Build outputs (excluding HTML/static files)
+dist/**/*.js
+dist/**/*.js.map
+dist/**/*.d.ts
+dist/**/*.d.ts.map
+dist/**/*.tsbuildinfo
